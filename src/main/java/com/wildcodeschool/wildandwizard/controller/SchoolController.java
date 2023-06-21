@@ -85,6 +85,7 @@ public class SchoolController {
                     }
                 }
                 wizardRepository.save(wizard);
+
             }
         }
 
